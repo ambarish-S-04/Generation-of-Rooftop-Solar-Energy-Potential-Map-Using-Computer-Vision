@@ -19,17 +19,8 @@ Visual and quantitative metrics to assess layout quality.
 🌈 Visualization Tools
 Generates heatmaps, panel layout diagrams, and coverage analysis.
 
-🗂️ Project Structure
-├── generate_masks.py                # Binary mask generator for rooftop images
-├── rooftop_segmentation_model.py   # Deep learning model for rooftop & obstacle segmentation
-├── solar_panel_placement.py        # Main script for panel layout and visualization
-├── performance_evaluation.py       # Evaluates panel layout performance
-├── testcases/                      # Sample rooftop images for testing
-├── results*/                       # Output folders with layout and analysis visuals
-├── model_epoch_*.pth               # Pretrained model weights
-├── requirements.txt                # Required Python libraries
-├── Solar Panel Placement/          # Additional scripts and visualizations
-├── Polygon Approximation/          # Utility and geometry tools
+![image](https://github.com/user-attachments/assets/775cd946-0e50-420d-bfa2-639c7d5a2c7b)
+
 🚀 Installation
 Clone the repository
 
